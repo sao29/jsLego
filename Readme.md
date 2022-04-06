@@ -6,5 +6,5 @@ la pagina web trata de refozar los conoccmientos del
 - css tranform y animation
 - DOM
 
-## link  sao29.github.io/jsLego
+## link  https://sao29.github.io//jsLego
 
