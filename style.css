@@ -476,7 +476,7 @@ body {
             z-index: 0;
         }
         input[type="radio"] {
-            
+            visibility: hidden;
         }
         .button-red {
             box-sizing: border-box;
